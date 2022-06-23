@@ -46,3 +46,5 @@ elif computer_choice > answer:
   print("You lose!")
 elif computer_choice == answer:
   print("Draw!!!")
+elif answer == 2 and computer_choice == 1:
+  print ("You win!")
