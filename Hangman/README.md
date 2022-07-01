@@ -1,11 +1,6 @@
 # The __HANGMAN__ Game
 
- +---+
-  |   |
-  O   |
- /|\  |
- / \  |
-      |
+![](https://github.com/daveeazi/Python_Test/blob/main/Hangman/hangman.png)
 
 This repository provides a program that displays a `Hangman` game with the user selecting alphabets
 
