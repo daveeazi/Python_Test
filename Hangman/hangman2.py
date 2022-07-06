@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import random
 from hangman_art import stages, logo
 from hangman_words import word_list
@@ -35,7 +37,7 @@ while not game_is_finished:
         if lives == 0:
             game_is_finished = True
             print("You lose.")
-    
+
     if not "_" in display:
         game_is_finished = True
         print("You win.")
