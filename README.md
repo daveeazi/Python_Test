@@ -4,4 +4,5 @@ __Includes:__
 
 * Rock Paper and Siscors functions
 * A Random Password Generator Function
+* A Hangman game
 
