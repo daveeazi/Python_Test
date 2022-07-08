@@ -7,3 +7,4 @@ __Includes:__
 * A Hangman game
 * Caesar-cipher game module
 * Python dictionaries, lists and string concatenation
+* A Blind Auction program
