@@ -6,3 +6,4 @@ __Includes:__
 * A Random Password Generator Function
 * A Hangman game
 * Caesar-cipher game module
+* Python dictionaries, lists and string concatenation
